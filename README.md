@@ -1,2 +1,2 @@
-# Hote-
+# Hotel
 hotel
