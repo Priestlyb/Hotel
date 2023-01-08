@@ -55,7 +55,7 @@ img{
 /* header */
 .header{
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.2)),
-    url("Images/Banner.jpg") center/cover no-repeat;
+    url("https://media.istockphoto.com/id/487042276/photo/hotel-sign.jpg?s=612x612&w=is&k=20&c=RQFLYj1MWYJvrxMr8f2zUdVvvKZYYHMfZ8qjZy17qgk=") center/cover no-repeat;
     min-height: 100vh;
     color: white;
     padding: 25px;
